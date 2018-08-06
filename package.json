@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://yunus-neg.github.io/Portfolio",
+  "homepage": "http://yunus-neg.github.io/PortfolioReact",
   "dependencies": {
     "@material-ui/core": "^1.4.3",
     "react": "^16.4.2",
